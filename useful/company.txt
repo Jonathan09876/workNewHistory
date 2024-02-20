@@ -1,0 +1,61 @@
+Rank    Company Name                           Headquarterx    overallscore substainability score Employee satisfaction  Growth Rate  industry
+
+
+Cigna Corporation
+
+
+46	EnBW Energie Baden-Württemberg AG	Germany	89.18	391	167	very high	Utilities
+47	Swiss Re	Switzerland	89.16	43	12	moderate	Insurance, Healthcare & Social Services
+48	UnitedHealth Group	United States	89.14	353	86	very high	Insurance, Healthcare & Social Services
+49	Home Depot	United States	89.12	228	63	very high	Retail, Wholesale & Consumer Goods
+50	Lego Group	Denmark	89.10	290	30	very high	Retail, Wholesale & Consumer Goods
+51	Deutsche Bahn	Germany	89.04	209	80	very high	Transportation, Logistics & Aviation
+52	Target Corp	United States	88.89	126	90	very high	Retail, Wholesale & Consumer Goods
+53	Tesla	United States	88.87	553	61	very high	Automotive Industry & Suppliers
+54	Marriott International	United States	88.86	436	51	very high	Hospitality, Travel & Leisure
+55	Costco Wholesale Corp	United States	88.82	568	13	very high	Retail, Wholesale & Consumer Goods
+56	BASF	Germany	88.69	320	100	very high	Chemicals, Drugs & Biotechnology
+57	Engie	France	88.67	261	187	very high	Utilities
+58	Walt Disney Company	United States	88.62	163	137	very high	Technology, Media & Services
+59	Safran	France	88.52	139	119	very high	Aerospace & Defense
+60	Lloyds Banking Group	United Kingdom	88.49	67	76	high	Banking & Financial Services
+61	Vinci	France	88.42	59	265	very high	Resource Generation & Infrastructure Sector
+62	Adobe	United States	88.40	29	226	high	Technology, Media & Services
+63	Deutsche Post	Germany	88.39	269	140	very high	Transportation, Logistics & Aviation
+64	Infosys	India	88.38	135	103	high	Professional Services
+65	Lam Research	United States	88.37	192	163	very high	Engineering, Manufacturing & Medical Technology
+66	TD Bank	Canada	88.35	74	52	moderate	Banking & Financial Services
+67	Coca-Cola Company	United States	88.33	142	147	very high	Food & Beverages
+68	Booking Holdings	United States	88.32	71	403	very high	Hospitality, Travel & Leisure
+69	Cigna Corporation	United States	88.28	73	170	very high	Insurance, Healthcare & Social Services
+70	Infineon Technologies	Germany	88.26	305	71	very high	IT, Electronics, Hardware & Equipment
+71	CNP Assurances	France	88.20	18	262	high	Insurance, Healthcare & Social Services
+72	Cisco Systems	United States	88.19	69	16	moderate	Telecommunications Services
+73	Salesforce	United States	88.18	86	257	very high	Technology, Media & Services
+74	Applied Materials	United States	88.17	92	248	very high	Engineering, Manufacturing & Medical Technology
+75	Airbus	Netherlands	88.17	213	25	high	Aerospace & Defense
+76	Next plc	United Kingdom	88.15	117	88	high	Retail, Wholesale & Consumer Goods
+77	Qualcomm	United States	88.14	274	247	very high	IT, Electronics, Hardware & Equipment
+78	Abbott Laboratories	United States	88.12	237	91	very high	Chemicals, Drugs & Biotechnology
+79	Devon Energy	United States	88.10	386	246	very high	Resource Generation & Infrastructure Sector
+80	Nike	United States	88.05	218	53	high	Apparel, Footwear & Sporting Goods
+81	TJX Companies	United States	88.04	141	302	very high	Retail, Wholesale & Consumer Goods
+82	Intact Financial Corp	Canada	87.99	292	143	very high	Insurance, Healthcare & Social Services
+83	BBVA	Spain	87.97	129	87	high	Banking & Financial Services
+84	Samsung Electronics	South Korea	87.86	499	31	very high	IT, Electronics, Hardware & Equipment
+85	Capgemini	France	87.86	16	296	high	Professional Services
+86	Michelin Group	France	87.81	187	131	very high	Automotive Industry & Suppliers
+87	WSP Global	Canada	87.78	15	298	high	Professional Services
+88	Icon	Ireland	87.77	262	234	very high	Chemicals, Drugs & Biotechnology
+89	A2A	Italy	87.73	185	450	very high	Utilities
+90	Nestle	Switzerland	87.72	203	69	high	Food & Beverages
+91	Comcast Corp	United States	87.71	362	70	very high	Technology, Media & Services
+92	Decathlon	France	87.69	277	49	high	Retail, Wholesale & Consumer Goods
+93	Thermo Fisher Scientific	United States	87.65	294	157	very high	Chemicals, Drugs & Biotechnology
+94	Amadeus IT Group	Spain	87.60	184	172	very high	Technology, Media & Services
+95	Deutsche Lufthansa	Germany	87.58	455	178	very high	Transportation, Logistics & Aviation
+96	SAP	Germany	87.56	49	34	moderate	Technology, Media & Services
+97	Eni	Italy	87.52	268	563	very high	Resource Generation & Infrastructure Sector
+98	Astrazeneca	United Kingdom	87.49	41	534	very high	Chemicals, Drugs & Biotechnology
+99	Oracle	United States	87.47	253	125	very high	Technology, Media & Services
+100	Raytheon Technologies	United States	87.47	263	108	high	Aerospace & Defense

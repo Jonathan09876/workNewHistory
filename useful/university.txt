@@ -1,0 +1,1194 @@
+1	University of Oxford
+United Kingdom
+20,965	10.6	42%	48 : 52
+2	Massachusetts Institute of Technology
+United States
+11,415	8.2	33%	40 : 60
+3	Stanford University
+United States
+16,164	7.1	24%	46 : 54
+4	ETH Zurich
+Switzerland
+21,665	14.8	41%	33 : 67
+5	Carnegie Mellon University
+United States
+14,305	12.9	47%	44 : 56
+6	University of Cambridge
+United Kingdom
+20,185	11.3	39%	47 : 53
+7	National University of Singapore
+Singapore
+32,337	19.8	25%	51 : 49
+8	University of California, Berkeley
+United States
+40,921	18.4	24%	52 : 48
+9	Harvard University
+United States
+21,887	9.6	25%	50 : 50
+10	Technical University of Munich
+Germany
+33,960	40.6	36%	37 : 63
+=11	Imperial College London
+United Kingdom
+18,545	11.2	61%	40 : 60
+=11	Princeton University
+United States
+8,279	8.0	23%	46 : 54
+13	Tsinghua University
+China
+38,324	11.6	10%	n/a
+14	Nanyang Technological University, Singapore
+Singapore
+24,651	15.1	25%	48 : 52
+15	University of Washington
+United States
+47,727	10.8	18%	55 : 45
+16	Cornell University
+United States
+24,027	10.3	26%	51 : 49
+17	Georgia Institute of Technology
+United States
+28,826	24.7	40%	33 : 67
+18	University of Illinois at Urbana-Champaign
+United States
+48,674	17.4	22%	48 : 52
+19	California Institute of Technology
+United States
+2,237	6.2	34%	37 : 63
+20	Peking University
+China
+31,994	10.3	19%	n/a
+21	Columbia University
+United States
+21,781	4.5	38%	n/a
+=22	École Polytechnique Fédérale de Lausanne
+Switzerland
+11,641	12.3	62%	30 : 70
+=22	University of Toronto
+Canada
+77,468	25.8	26%	56 : 44
+24	University of Edinburgh
+United Kingdom
+32,845	11.8	47%	62 : 38
+25	New York University
+United States
+36,337	9.8	42%	57 : 43
+26	University of California, Los Angeles
+United States
+42,434	9.7	16%	56 : 44
+27	Shanghai Jiao Tong University
+China
+37,478	11.5	8%	42 : 58
+28	Johns Hopkins University
+United States
+17,584	4.7	29%	53 : 47
+=29	The Hong Kong University of Science and Technology
+Hong Kong
+9,864	21.0	32%	n/a
+=29	UCL
+United Kingdom
+36,790	10.3	60%	59 : 41
+31	University of Texas at Austin
+United States
+49,171	17.4	10%	53 : 47
+32	Yale University
+United States
+13,482	5.9	21%	52 : 48
+33	University of California, San Diego
+United States
+37,030	11.3	28%	48 : 52
+34	Université de Montréal
+Canada
+38,189	20.8	22%	n/a
+35	University of Pennsylvania
+United States
+21,453	6.3	23%	53 : 47
+36	Chinese University of Hong Kong
+Hong Kong
+18,468	19.0	21%	n/a
+37	University of Michigan-Ann Arbor
+United States
+45,912	8.2	17%	50 : 50
+=38	The University of Chicago
+United States
+15,366	6.0	36%	47 : 53
+=38	Paris Sciences et Lettres – PSL Research University Paris
+France
+16,218	15.0	22%	51 : 49
+40	Zhejiang University
+China
+46,124	12.0	16%	n/a
+41	KU Leuven
+Belgium
+47,663	36.5	18%	51 : 49
+42	The University of Tokyo
+Japan
+26,112	10.5	15%	n/a
+43	University of Waterloo
+Canada
+34,306	23.2	23%	48 : 52
+44	Korea Advanced Institute of Science and Technology (KAIST)
+South Korea
+9,946	10.7	9%	21 : 79
+45	University of Maryland, College Park
+United States
+33,775	16.5	11%	49 : 51
+46	Institut Polytechnique de Paris
+France
+5,999	6.7	41%	24 : 76
+47	University of British Columbia
+Canada
+56,452	18.9	34%	55 : 45
+=48	Delft University of Technology
+Netherlands
+20,299	16.1	31%	31 : 69
+=48	Seoul National University
+South Korea
+26,209	15.1	10%	n/a
+50	RWTH Aachen University
+Germany
+39,738	50.0	28%	33 : 67
+51	University of Melbourne
+Australia
+49,588	23.8	47%	58 : 42
+52	Duke University
+United States
+16,091	4.2	24%	52 : 48
+=53	McGill University
+Canada
+32,309	12.5	30%	60 : 40
+=53	University of Southern California
+United States
+40,549	12.6	22%	49 : 51
+55	University of Hong Kong
+Hong Kong
+18,087	18.2	43%	54 : 46
+56	King Abdulaziz University
+Saudi Arabia
+31,545	7.8	22%	54 : 46
+57	Monash University
+Australia
+58,725	42.5	41%	57 : 43
+58	Nanjing University
+China
+36,426	16.5	8%	54 : 46
+59	Technical University of Berlin
+Germany
+20,243	48.1	27%	35 : 65
+60	University of California, Santa Barbara
+United States
+25,860	28.5	20%	54 : 46
+61	University of Amsterdam
+Netherlands
+29,157	14.5	32%	59 : 41
+62	The University of Sydney
+Australia
+45,853	19.0	45%	58 : 42
+63	University of Wisconsin-Madison
+United States
+40,701	10.0	14%	n/a
+64	University of Science and Technology of China
+China
+18,573	8.1	6%	n/a
+65	LMU Munich
+Germany
+35,003	34.2	19%	61 : 39
+=66	Australian National University
+Australia
+16,758	14.6	51%	52 : 48
+=66	Université Paris-Saclay
+France
+44,443	14.9	19%	49 : 51
+=66	Technical University of Darmstadt
+Germany
+15,526	37.1	18%	34 : 66
+69	University of Technology Sydney
+Australia
+27,481	35.1	31%	50 : 50
+70	UNSW Sydney
+Australia
+45,133	36.3	40%	47 : 53
+71	Karlsruhe Institute of Technology
+Germany
+22,673	21.6	20%	29 : 71
+72	Sorbonne University
+France
+41,443	13.9	21%	59 : 41
+73	Aalto University
+Finland
+13,306	19.7	21%	38 : 62
+74	Brown University
+United States
+10,037	10.1	21%	n/a
+75	University of Adelaide
+Australia
+23,102	32.8	32%	49 : 51
+76	University of California, Irvine
+United States
+36,655	16.9	28%	52 : 48
+77	KTH Royal Institute of Technology
+Sweden
+13,329	16.4	20%	34 : 66
+78	University of Freiburg
+Germany
+20,253	37.2	17%	53 : 47
+79	Hong Kong Polytechnic University
+Hong Kong
+19,046	28.9	30%	51 : 49
+80	Michigan State University
+United States
+45,465	16.0	13%	52 : 48
+81	Fudan University
+China
+36,318	11.9	9%	52 : 48
+=82	City University of Hong Kong
+Hong Kong
+9,099	12.1	62%	54 : 46
+=82	Yonsei University (Seoul campus)
+South Korea
+19,481	14.7	17%	50 : 50
+84	Queen Mary University of London
+United Kingdom
+20,505	13.1	46%	55 : 45
+85	University of Massachusetts
+United States
+63,338	13.2	14%	49 : 51
+=86	Kyoto University
+Japan
+22,269	9.2	12%	25 : 75
+=86	University of Manchester
+United Kingdom
+37,035	14.2	44%	55 : 45
+88	Politecnico di Milano
+Italy
+37,532	25.4	18%	n/a
+=89	Eindhoven University of Technology
+Netherlands
+10,240	21.0	24%	n/a
+=89	Penn State (Main campus)
+United States
+46,863	14.0	16%	47 : 53
+=91	University of California, Davis
+United States
+37,639	13.1	18%	60 : 40
+=91	Purdue University West Lafayette
+United States
+44,551	16.9	20%	44 : 56
+93	TU Wien
+Austria
+10,327	17.7	31%	31 : 69
+94	University of North Carolina at Chapel Hill
+United States
+31,080	7.9	8%	59 : 41
+=95	Qatar University
+Qatar
+9,084	8.8	35%	77 : 23
+=95	Virginia Polytechnic Institute and State University
+United States
+36,512	18.5	14%	43 : 57
+=95	University of Warsaw
+Poland
+37,090	12.0	10%	63 : 37
+98	Northwestern University
+United States
+19,175	13.2	20%	51 : 49
+99	University of Bonn
+Germany
+27,210	47.5	17%	56 : 44
+100	Lomonosov Moscow State University
+Russian Federation
+32,625	10.0	36%	50 : 50
+101–125	University of Alberta
+Canada
+32,338	21.6	28%	n/a
+101–125	University of Bologna
+Italy
+69,831	24.4	12%	56 : 44
+101–125	Boston University
+United States
+27,243	10.8	31%	59 : 41
+101–125	University of Copenhagen
+Denmark
+31,519	4.2	16%	62 : 38
+101–125	University of Illinois Chicago
+United States
+28,724	11.3	19%	54 : 46
+101–125	Indian Institute of Science
+India
+3,990	8.8	1%	27 : 73
+101–125	King’s College London
+United Kingdom
+28,965	11.8	52%	63 : 37
+101–125	Korea University
+South Korea
+22,507	15.8	27%	n/a
+101–125	University of Luxembourg
+Luxembourg
+5,185	19.3	51%	53 : 47
+101–125	Macau University of Science and Technology
+Macao
+11,993	38.1	91%	57 : 43
+101–125	Moscow Institute of Physics and Technology (MIPT)
+Russian Federation
+6,083	11.5	20%	n/a
+101–125	National Taiwan University (NTU)
+Taiwan
+25,215	11.4	11%	42 : 58
+101–125	Northeastern University, US
+United States
+21,211	14.6	36%	48 : 52
+101–125	The University of Queensland
+Australia
+41,372	34.2	41%	55 : 45
+101–125	Rice University
+United States
+7,068	9.2	28%	43 : 57
+101–125	Ruhr University Bochum
+Germany
+38,441	48.5	15%	50 : 50
+101–125	Rutgers University – New Brunswick
+United States
+46,158	10.9	17%	53 : 47
+101–125	Simon Fraser University
+Canada
+26,981	27.5	31%	54 : 46
+101–125	University of Southampton
+United Kingdom
+21,175	13.7	39%	53 : 47
+101–125	University of Surrey
+United Kingdom
+14,960	16.9	36%	53 : 47
+101–125	Università della Svizzera italiana
+Switzerland
+3,266	12.5	66%	47 : 53
+101–125	Technical University of Denmark
+Denmark
+9,599	6.9	26%	32 : 68
+101–125	University of Tübingen
+Germany
+20,620	27.5	13%	59 : 41
+101–125	Vrije Universiteit Amsterdam
+Netherlands
+29,796	19.8	16%	56 : 44
+101–125	University of Zurich
+Switzerland
+25,003	13.7	22%	56 : 44
+126–150	Aarhus University
+Denmark
+26,475	13.5	10%	55 : 45
+126–150	Arizona State University (Tempe)
+United States
+50,027	19.6	17%	45 : 55
+126–150	University of Bristol
+United Kingdom
+25,680	14.6	31%	56 : 44
+126–150	University of California, Riverside
+United States
+24,515	18.6	14%	53 : 47
+126–150	Central South University
+China
+56,344	20.4	4%	n/a
+126–150	Chalmers University of Technology
+Sweden
+9,513	13.8	19%	32 : 68
+126–150	École des Ponts ParisTech
+France
+1,959	10.0	37%	32 : 68
+126–150	Graz University of Technology
+Austria
+6,353	8.6	23%	25 : 75
+126–150	Griffith University
+Australia
+35,900	32.9	17%	59 : 41
+126–150	Huazhong University of Science and Technology
+China
+57,167	16.2	4%	n/a
+126–150	King Saud University
+Saudi Arabia
+33,931	10.6	14%	44 : 56
+126–150	Lancaster University
+United Kingdom
+14,380	12.8	39%	51 : 49
+126–150	Linköping University
+Sweden
+15,026	14.4	15%	52 : 48
+126–150	University of Malaya
+Malaysia
+18,320	9.8	18%	58 : 42
+126–150	University of Oslo
+Norway
+21,548	13.3	15%	66 : 34
+126–150	University of Oulu
+Finland
+10,134	19.8	7%	54 : 46
+126–150	Queensland University of Technology
+Australia
+35,278	37.9	17%	53 : 47
+126–150	Stony Brook University
+United States
+25,411	10.6	22%	52 : 48
+126–150	Sun Yat-sen University
+China
+57,951	15.1	5%	49 : 51
+126–150	Swansea University
+United Kingdom
+17,490	15.4	22%	47 : 53
+126–150	Swinburne University of Technology
+Australia
+15,327	25.6	25%	38 : 62
+126–150	Technion Israel Institute of Technology
+Israel
+15,147	21.0	12%	39 : 61
+126–150	Tel Aviv University
+Israel
+23,834	23.0	7%	57 : 43
+126–150	Tokyo Institute of Technology
+Japan
+9,878	9.5	17%	16 : 84
+126–150	University of Warwick
+United Kingdom
+23,230	13.1	44%	50 : 50
+151–175	Aalborg University
+Denmark
+16,818	14.7	14%	n/a
+151–175	Asia University, Taiwan
+Taiwan
+11,421	30.3	7%	62 : 38
+151–175	University of Basel
+Switzerland
+8,632	10.9	30%	57 : 43
+151–175	Deakin University
+Australia
+43,080	33.9	25%	58 : 42
+151–175	École Normale Supérieure de Lyon
+France
+2,171	8.6	11%	47 : 53
+151–175	University of Erlangen-Nuremberg
+Germany
+30,303	43.4	13%	51 : 49
+151–175	University of Glasgow
+United Kingdom
+28,540	13.5	41%	59 : 41
+151–175	University of Groningen
+Netherlands
+30,009	24.4	28%	52 : 48
+151–175	IMT Atlantique
+France
+1,436	7.7	33%	25 : 75
+151–175	King Fahd University of Petroleum and Minerals
+Saudi Arabia
+7,268	8.6	10%	2 : 98
+151–175	Kyung Hee University
+South Korea
+20,504	17.7	27%	55 : 45
+151–175	University of Macau
+Macao
+10,460	15.4	39%	55 : 45
+151–175	Macquarie University
+Australia
+30,561	69.0	27%	52 : 48
+151–175	University of Mannheim
+Germany
+7,684	58.2	13%	n/a
+151–175	Near East University
+Northern Cyprus
+20,103	24.5	83%	43 : 57
+151–175	Pohang University of Science and Technology (POSTECH)
+South Korea
+3,260	10.0	3%	n/a
+151–175	University of Rochester
+United States
+10,364	7.7	36%	50 : 50
+151–175	Sapienza University of Rome
+Italy
+72,604	28.2	10%	60 : 40
+151–175	University of South Australia
+Australia
+23,490	32.9	21%	58 : 42
+151–175	University of Stuttgart
+Germany
+16,054	26.5	19%	34 : 66
+151–175	Texas A&M University
+United States
+62,931	21.3	8%	47 : 53
+151–175	Tohoku University
+Japan
+17,812	12.4	14%	28 : 72
+151–175	University of Trento
+Italy
+14,219	19.2	8%	52 : 48
+151–175	TU Dresden
+Germany
+30,382	30.8	16%	45 : 55
+151–175	University College Dublin
+Ireland
+23,361	21.3	31%	n/a
+151–175	William & Mary
+United States
+8,089	10.9	8%	56 : 44
+176–200	University of Antwerp
+Belgium
+15,857	32.2	17%	56 : 44
+176–200	University of Auckland
+New Zealand
+33,093	22.1	32%	56 : 44
+176–200	Bauman Moscow State Technical University
+Russian Federation
+16,925	6.8	15%	40 : 60
+176–200	University of Birmingham
+United Kingdom
+31,820	15.0	34%	58 : 42
+176–200	Brunel University London
+United Kingdom
+13,040	17.0	39%	47 : 53
+176–200	University of Colorado Boulder
+United States
+34,928	16.0	8%	45 : 55
+176–200	University of Galway
+Ireland
+15,109	26.1	20%	60 : 40
+176–200	Harbin Institute of Technology
+China
+30,542	10.5	6%	n/a
+176–200	University of Helsinki
+Finland
+23,059	15.8	5%	67 : 33
+176–200	University of Klagenfurt
+Austria
+3,562	10.0	28%	68 : 32
+176–200	University of Leicester
+United Kingdom
+14,650	14.1	34%	54 : 46
+176–200	University of Minnesota
+United States
+61,009	12.0	10%	54 : 46
+176–200	University of Newcastle
+Australia
+24,363	29.5	18%	57 : 43
+176–200	North Carolina State University
+United States
+31,540	16.6	14%	48 : 52
+176–200	Peter the Great St Petersburg Polytechnic University
+Russian Federation
+16,375	9.7	32%	41 : 59
+176–200	Radboud University Nijmegen
+Netherlands
+21,979	17.6	13%	56 : 44
+176–200	Sant’Anna School of Advanced Studies – Pisa
+Italy
+1,100	14.0	19%	41 : 59
+176–200	Sejong University
+South Korea
+12,356	20.8	13%	48 : 52
+176–200	Shenzhen University
+China
+38,240	14.1	1%	46 : 54
+176–200	Southern University of Science and Technology (SUSTech)
+China
+5,137	8.8	1%	n/a
+176–200	Stevens Institute of Technology
+United States
+6,624	18.6	35%	29 : 71
+176–200	Sungkyunkwan University (SKKU)
+South Korea
+23,399	19.4	18%	n/a
+176–200	SUNY Binghamton University
+United States
+18,852	22.0	11%	50 : 50
+176–200	University of Tartu
+Estonia
+9,235	12.0	13%	68 : 32
+176–200	Ton Duc Thang University
+Vietnam
+27,878	25.3	1%	56 : 44
+176–200	University of Vienna
+Austria
+35,929	42.9	29%	66 : 34
+176–200	York University
+Canada
+44,036	29.1	28%	55 : 45
+201–250	Benha University
+Egypt
+110,645	32.5	3%	42 : 58
+201–250	University of Bern
+Switzerland
+11,728	17.2	17%	58 : 42
+201–250	University of Bradford
+United Kingdom
+8,400	19.1	30%	57 : 43
+201–250	University at Buffalo
+United States
+27,393	18.0	15%	45 : 55
+201–250	Cairo University
+Egypt
+224,216	36.8	4%	54 : 46
+201–250	University of California, Santa Cruz
+United States
+19,266	22.6	14%	47 : 53
+201–250	Case Western Reserve University
+United States
+10,934	8.2	20%	51 : 49
+201–250	University of Córdoba
+Spain
+16,847	13.5	10%	56 : 44
+201–250	Dartmouth College
+United States
+6,440	7.8	15%	49 : 51
+201–250	De Montfort University
+United Kingdom
+24,490	20.2	38%	54 : 46
+201–250	University of East Anglia
+United Kingdom
+15,940	13.3	25%	58 : 42
+201–250	University of Essex
+United Kingdom
+14,335	15.3	40%	54 : 46
+201–250	University of Florida
+United States
+46,807	16.1	8%	56 : 44
+201–250	Free University of Bozen-Bolzano
+Italy
+4,236	12.6	15%	68 : 32
+201–250	University of Granada
+Spain
+54,619	14.5	10%	60 : 40
+201–250	Université Grenoble Alpes
+France
+50,868	18.2	17%	52 : 48
+201–250	Indiana University
+United States
+66,637	12.6	13%	53 : 47
+201–250	Istanbul Technical University
+Turkey
+18,562	24.2	15%	37 : 63
+201–250	Johannes Kepler University of Linz
+Austria
+7,133	22.5	13%	50 : 50
+201–250	The University of Jordan
+Jordan
+30,380	13.4	13%	66 : 34
+201–250	University of Leeds
+United Kingdom
+33,990	14.6	36%	60 : 40
+201–250	Loughborough University
+United Kingdom
+15,815	13.8	29%	41 : 59
+201–250	Université Catholique de Louvain
+Belgium
+24,523	36.0	20%	54 : 46
+201–250	Lviv Polytechnic National University
+Ukraine
+21,367	10.5	1%	42 : 58
+201–250	Manchester Metropolitan University
+United Kingdom
+29,195	15.9	19%	58 : 42
+201–250	Mansoura University
+Egypt
+161,977	47.5	3%	52 : 48
+201–250	Nagoya University
+Japan
+15,224	12.8	12%	30 : 70
+201–250	National Yang Ming Chiao Tung University
+Taiwan
+16,425	14.2	11%	36 : 64
+201–250	University of New Brunswick UNB
+Canada
+8,661	14.7	15%	51 : 49
+201–250	University of Notre Dame
+United States
+12,401	10.9	13%	46 : 54
+201–250	University of Nottingham
+United Kingdom
+32,875	15.1	31%	54 : 46
+201–250	Ohio State University (Main campus)
+United States
+55,814	11.8	13%	51 : 49
+201–250	Osaka University
+Japan
+22,485	10.5	10%	33 : 67
+201–250	Université Paris Cité
+France
+62,747	17.0	19%	65 : 35
+201–250	University of Pisa
+Italy
+33,791	21.9	6%	51 : 49
+201–250	Quaid-i-Azam University
+Pakistan
+9,250	16.5	1%	51 : 49
+201–250	Université du Québec
+Canada
+50,418	17.9	12%	57 : 43
+201–250	Queen’s University Belfast
+United Kingdom
+19,060	15.8	39%	57 : 43
+201–250	University of Sharjah
+United Arab Emirates
+12,933	19.2	55%	67 : 33
+201–250	Temple University
+United States
+35,641	12.5	8%	54 : 46
+201–250	The University of Texas at San Antonio
+United States
+27,187	24.7	3%	51 : 49
+201–250	Trinity College Dublin
+Ireland
+17,764	21.0	28%	60 : 40
+201–250	TU Dortmund University
+Germany
+25,046	74.8	10%	47 : 53
+201–250	University of Twente
+Netherlands
+9,816	14.7	37%	37 : 63
+201–250	Ulm University
+Germany
+10,271	26.2	13%	51 : 49
+201–250	Utrecht University
+Netherlands
+32,532	17.1	13%	62 : 38
+201–250	Victoria University of Wellington
+New Zealand
+17,883	18.8	20%	58 : 42
+201–250	Washington University in St Louis
+United States
+14,420	7.8	24%	53 : 47
+201–250	Wuhan University
+China
+55,412	15.2	6%	n/a
+201–250	Yeungnam University
+South Korea
+19,345	15.0	4%	50 : 50
+251–300	Bar-Ilan University
+Israel
+17,255	17.3	4%	61 : 39
+251–300	Cardiff University
+United Kingdom
+27,105	14.3	28%	59 : 41
+251–300	University of Central Florida
+United States
+62,248	36.1	5%	56 : 44
+251–300	Dublin City University
+Ireland
+13,956	25.4	17%	59 : 41
+251–300	Duy Tan University
+Vietnam
+21,670	21.9	0%	62 : 38
+251–300	University of Electronic Science and Technology of China
+China
+35,232	15.4	3%	30 : 70
+251–300	University of Exeter
+United Kingdom
+24,165	15.9	29%	53 : 47
+251–300	Florida International University
+United States
+35,590	23.3	9%	57 : 43
+251–300	University of Fortaleza (UNIFOR)
+Brazil
+21,115	18.5	0%	51 : 49
+251–300	Free University of Berlin
+Germany
+26,497	41.9	23%	62 : 38
+251–300	George Washington University
+United States
+22,298	12.9	15%	62 : 38
+251–300	University of Göttingen
+Germany
+30,221	26.0	14%	52 : 48
+251–300	University of Guelph
+Canada
+22,763	27.4	10%	59 : 41
+251–300	Hebrew University of Jerusalem
+Israel
+16,175	11.3	5%	57 : 43
+251–300	Hong Kong Baptist University
+Hong Kong
+8,358	12.4	62%	67 : 33
+251–300	Humboldt University of Berlin
+Germany
+34,399	53.2	17%	n/a
+251–300	University of Iowa
+United States
+29,257	11.1	8%	54 : 46
+251–300	University of Jaén
+Spain
+13,767	16.4	9%	57 : 43
+251–300	Jouf University
+Saudi Arabia
+19,826	9.8	3%	60 : 40
+251–300	University of Kaiserslautern
+Germany
+8,572	28.8	22%	35 : 65
+251–300	University of Konstanz
+Germany
+5,758	24.2	12%	60 : 40
+251–300	Lehigh University
+United States
+6,459	11.1	18%	46 : 54
+251–300	Leibniz University Hannover
+Germany
+21,677	43.7	18%	42 : 58
+251–300	Université Libre de Bruxelles
+Belgium
+28,290	49.3	31%	57 : 43
+251–300	University of Liège
+Belgium
+21,910	26.8	21%	58 : 42
+251–300	University of Lincoln
+United Kingdom
+14,480	15.7	13%	55 : 45
+251–300	Minia University
+Egypt
+75,566	17.9	1%	54 : 46
+251–300	Nankai University
+China
+31,322	11.3	5%	n/a
+251–300	National Research Nuclear University MEPhI
+Russian Federation
+5,016	9.2	31%	40 : 60
+251–300	Newcastle University
+United Kingdom
+25,590	15.1	29%	52 : 48
+251–300	Nottingham Trent University
+United Kingdom
+29,925	15.3	21%	57 : 43
+251–300	University of Padua
+Italy
+48,524	29.3	8%	55 : 45
+251–300	University of Pittsburgh-Pittsburgh campus
+United States
+26,575	5.5	11%	55 : 45
+251–300	RMIT University
+Australia
+32,692	23.6	34%	48 : 52
+251–300	Royal Holloway, University of London
+United Kingdom
+10,640	15.1	35%	57 : 43
+251–300	University of Salford
+United Kingdom
+18,220	18.7	20%	55 : 45
+251–300	Sharif University of Technology
+Iran
+9,219	22.5	2%	25 : 75
+251–300	Sichuan University
+China
+49,543	15.8	6%	n/a
+251–300	Taif University
+Saudi Arabia
+39,622	19.6	2%	56 : 44
+251–300	University of Tehran
+Iran
+45,295	21.5	2%	45 : 55
+251–300	Universiti Teknologi Malaysia
+Malaysia
+19,974	13.5	20%	47 : 53
+251–300	Thapar Institute of Engineering and Technology
+India
+9,375	16.9	1%	28 : 72
+251–300	Ulsan National Institute of Science and Technology (UNIST)
+South Korea
+3,896	13.6	9%	27 : 73
+251–300	Victoria University
+Australia
+16,106	45.2	25%	55 : 45
+251–300	University of Victoria
+Canada
+20,936	24.6	21%	55 : 45
+251–300	University of Virginia (Main campus)
+United States
+25,810	9.0	13%	53 : 47
+251–300	Washington State University
+United States
+29,463	19.5	7%	54 : 46
+251–300	University of Würzburg
+Germany
+23,754	40.7	10%	58 : 42
+301–400	Al-Balqa Applied University
+Jordan
+28,178	27.7	2%	59 : 41
+301–400	Amirkabir University of Technology
+Iran
+10,673	21.2	2%	35 : 65
+301–400	Andhra University
+India
+9,048	13.2	6%	49 : 51
+301–400	Aston University
+United Kingdom
+12,015	17.8	25%	48 : 52
+301–400	University of Bath
+United Kingdom
+14,955	15.4	34%	46 : 54
+301–400	University of Bayreuth
+Germany
+9,734	26.6	12%	47 : 53
+301–400	Beihang University
+China
+31,821	12.9	4%	n/a
+301–400	University of Campinas
+Brazil
+31,199	17.8	3%	46 : 54
+301–400	University of Catania
+Italy
+26,902	21.2	3%	58 : 42
+301–400	Changsha University of Science and Technology
+China
+33,342	15.3	1%	37 : 63
+301–400	Charles University
+Czech Republic
+49,787	13.2	22%	62 : 38
+301–400	City, University of London
+United Kingdom
+15,460	18.2	51%	57 : 43
+301–400	COMSATS University Islamabad
+Pakistan
+33,465	14.8	2%	42 : 58
+301–400	Concordia University
+Canada
+35,592	33.5	34%	50 : 50
+301–400	University of Crete
+Greece
+13,808	27.6	4%	63 : 37
+301–400	Dalian University of Technology
+China
+38,465	15.0	3%	n/a
+301–400	University of Delaware
+United States
+21,808	16.3	12%	57 : 43
+301–400	Durham University
+United Kingdom
+18,425	14.1	35%	54 : 46
+301–400	Edinburgh Napier University
+United Kingdom
+11,535	20.4	35%	53 : 47
+301–400	Edith Cowan University
+Australia
+18,759	30.4	28%	60 : 40
+301–400	University of Engineering and Technology, Taxila
+Pakistan
+5,290	19.3	2%	18 : 82
+301–400	Federal University of Piauí
+Brazil
+52,000	24.6	0%	n/a
+301–400	Firat University
+Turkey
+39,961	20.6	5%	37 : 63
+301–400	Florida Atlantic University
+United States
+24,191	18.7	10%	64 : 36
+301–400	University of Geneva
+Switzerland
+19,078	8.7	40%	62 : 38
+301–400	Georgetown University
+United States
+16,074	8.0	19%	54 : 46
+301–400	University of Hamburg
+Germany
+30,676	61.5	12%	58 : 42
+301–400	Hanyang University
+South Korea
+20,079	14.6	20%	n/a
+301–400	Heriot-Watt University
+United Kingdom
+9,735	17.9	37%	40 : 60
+301–400	University of Houston
+United States
+46,958	27.0	7%	52 : 48
+301–400	Illinois Institute of Technology
+United States
+6,386	11.5	41%	37 : 63
+301–400	Indian Institute of Technology Indore
+India
+2,001	11.7	0%	22 : 78
+301–400	University of Innsbruck
+Austria
+13,918	22.0	46%	53 : 47
+301–400	International Islamic University, Islamabad
+Pakistan
+25,221	25.1	7%	53 : 47
+301–400	Iowa State University
+United States
+28,767	16.7	10%	44 : 56
+301–400	ITMO University
+Russian Federation
+10,814	15.0	22%	34 : 66
+301–400	Jamia Millia Islamia
+India
+10,481	11.2	2%	49 : 51
+301–400	Kalasalingam Academy of Research and Education
+India
+7,365	8.8	3%	55 : 45
+301–400	University of Kentucky
+United States
+27,216	11.2	4%	57 : 43
+301–400	KIIT University
+India
+24,796	12.3	9%	49 : 51
+301–400	King Faisal University
+Saudi Arabia
+27,805	13.1	2%	67 : 33
+301–400	Lakehead University
+Canada
+8,365	25.8	21%	55 : 45
+301–400	Université Laval
+Canada
+28,611	16.9	15%	58 : 42
+301–400	University of Liverpool
+United Kingdom
+26,350	14.2	36%	55 : 45
+301–400	Liverpool John Moores University
+United Kingdom
+21,725	17.4	16%	54 : 46
+301–400	University of Management and Technology
+Pakistan
+22,520	22.2	2%	45 : 55
+301–400	McMaster University
+Canada
+26,403	29.0	20%	56 : 44
+301–400	Middle East Technical University
+Turkey
+17,151	22.5	10%	48 : 52
+301–400	Middlesex University
+United Kingdom
+15,905	18.7	50%	58 : 42
+301–400	University of Modena and Reggio Emilia
+Italy
+21,409	26.9	5%	53 : 47
+301–400	University of Münster
+Germany
+28,014	25.4	7%	n/a
+301–400	University of Naples Federico II
+Italy
+53,319	20.2	2%	55 : 45
+301–400	National and Kapodistrian University of Athens
+Greece
+66,649	31.0	11%	59 : 41
+301–400	National Taiwan University of Science and Technology (Taiwan Tech)
+Taiwan
+8,906	17.9	18%	30 : 70
+301–400	National Tsing Hua University
+Taiwan
+13,711	16.3	11%	41 : 59
+301–400	New Jersey Institute of Technology
+United States
+9,757	14.6	24%	27 : 73
+301–400	Northumbria University
+United Kingdom
+22,500	16.2	22%	54 : 46
+301–400	Northwestern Polytechnical University
+China
+34,095	13.9	4%	28 : 72
+301–400	Norwegian University of Science and Technology
+Norway
+37,707	15.8	9%	48 : 52
+301–400	Open University of Catalonia
+Spain
+32,319	100.5	6%	57 : 43
+301–400	University of Ottawa
+Canada
+36,670	26.0	24%	58 : 42
+301–400	University of Passau
+Germany
+9,703	69.2	12%	61 : 39
+301–400	University of Plymouth
+United Kingdom
+15,605	17.7	16%	58 : 42
+301–400	Universitat Politècnica de Catalunya
+Spain
+22,280	9.5	14%	27 : 73
+301–400	University of Potsdam
+Germany
+14,993	39.6	14%	57 : 43
+301–400	Prince Sattam Bin Abdulaziz University
+Saudi Arabia
+27,117	12.2	2%	58 : 42
+301–400	University of the Punjab
+Pakistan
+28,384	22.4	1%	52 : 48
+301–400	University of Reading
+United Kingdom
+15,720	16.4	32%	56 : 44
+301–400	University of Regina
+Canada
+14,172	24.7	27%	59 : 41
+301–400	Rensselaer Polytechnic Institute
+United States
+7,475	14.7	21%	32 : 68
+301–400	University of Rhode Island
+United States
+15,851	14.5	3%	57 : 43
+301–400	Universiti Sains Malaysia
+Malaysia
+23,492	11.6	17%	64 : 36
+301–400	University of St Gallen
+Switzerland
+8,065	12.2	34%	35 : 65
+301–400	University of Salamanca
+Spain
+27,920	16.9	18%	62 : 38
+301–400	University of Salerno
+Italy
+26,289	27.4	3%	54 : 46
+301–400	University of São Paulo
+Brazil
+82,010	15.9	4%	47 : 53
+301–400	University of Saskatchewan
+Canada
+17,741	17.6	22%	55 : 45
+301–400	Siksha ‘O’ Anusandhan
+India
+13,990	12.4	1%	54 : 46
+301–400	University of Southern Denmark
+Denmark
+18,471	10.2	14%	53 : 47
+301–400	Southwestern University of Finance and Economics
+China
+23,330	16.4	2%	65 : 35
+301–400	Syracuse University
+United States
+20,620	14.9	23%	52 : 48
+301–400	Tampere University
+Finland
+15,855	20.6	6%	54 : 46
+301–400	University of Texas at Dallas
+United States
+25,464	21.6	20%	43 : 57
+301–400	Tianjin University
+China
+27,353	8.7	12%	n/a
+301–400	University of Turku
+Finland
+13,012	15.3	5%	64 : 36
+301–400	Uppsala University
+Sweden
+25,548	15.3	17%	62 : 38
+301–400	Vanderbilt University
+United States
+12,696	3.8	15%	55 : 45
+301–400	Vrije Universiteit Brussel
+Belgium
+14,284	33.6	23%	57 : 43
+301–400	Wenzhou University
+China
+21,827	18.2	3%	58 : 42
+301–400	University of the West of England
+United Kingdom
+24,585	15.9	23%	53 : 47
+301–400	The University of Western Australia
+Australia
+18,405	21.3	28%	49 : 51
+301–400	Western University
+Canada
+29,747	29.5	22%	56 : 44
+301–400	Western Sydney University
+Australia
+36,033	40.3	22%	58 : 42
+301–400	University of Windsor
+Canada
+14,516	33.3	29%	n/a
+301–400	University of Wollongong
+Australia
+17,440	29.1	27%	54 : 46
+301–400	Yangzhou University
+China
+31,066	13.3	11%	58 : 42
+301–400	Yıldız Technical University
+Turkey
+25,532	26.0	11%	48 : 52
